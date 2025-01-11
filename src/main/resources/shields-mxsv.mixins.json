@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "de.pnku.shields_mxsv.mixin" ,
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AnvilMenuMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

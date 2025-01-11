@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "gold_shield",
+  "key": {
+    "C": {
+      "item": "minecraft:gold_ingot"
+    },
+    "W": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "pattern": [
+    "WCW",
+    "WWW",
+    " W "
+  ],
+  "result": {
+    "count": 1,
+    "id": "shields-mxsv:jungle_gold_shield"
+  }
+}

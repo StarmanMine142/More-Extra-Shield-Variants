@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "copper_shield",
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "h": {
+      "item": "minecraft:honeycomb"
+    },
+    "w": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "pattern": [
+    "wcw",
+    "whw",
+    " w "
+  ],
+  "result": {
+    "count": 1,
+    "id": "shields:copper_shield"
+  }
+}

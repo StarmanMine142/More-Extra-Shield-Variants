@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "diamond_shield",
+  "key": {
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "w": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "pattern": [
+    "wdw",
+    "www",
+    " w "
+  ],
+  "result": {
+    "count": 1,
+    "id": "shields:diamond_shield"
+  }
+}

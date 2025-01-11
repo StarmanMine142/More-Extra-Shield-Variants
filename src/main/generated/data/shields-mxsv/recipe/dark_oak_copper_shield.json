@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "copper_shield",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "W": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  },
+  "pattern": [
+    "WCW",
+    "WHW",
+    " W "
+  ],
+  "result": {
+    "count": 1,
+    "id": "shields-mxsv:dark_oak_copper_shield"
+  }
+}
